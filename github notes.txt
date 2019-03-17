@@ -12,8 +12,8 @@ Step 4 : commands
   - git init
   - git status
   - git add
-  - git commit -m “…..”
-  - git remote add origin https://github.com/RaghavAutomation/R...
+  - git commit -m “commit message”
+  - git remote add origin https://github.com/javamahendra/mahendra...
   - git push -u origin master
   - git log
   - git —help
